@@ -1,0 +1,5 @@
+{
+    "editor.defaultFormatter": "hossaini.bootstrap-intellisense",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+}
